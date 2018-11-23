@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_bt_home"
+        android:icon="@drawable/ic_home"
+        android:title="返回" />
+    <item
+        android:id="@+id/nav_bt_schedule"
+        android:icon="@drawable/ic_alarm"
+        android:title="课程" />
+    <item
+        android:id="@+id/nav_bt_coachlist"
+        android:icon="@drawable/ic_people"
+        android:title="教练" />
+</menu>
